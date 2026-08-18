@@ -11,7 +11,7 @@ Software Developer turned Data Scientist, now focused on **Data Engineering**. M
 
 **[DC Scenicness Prediction](https://github.com/JMunetsi/dc-scenicness-capstone)**
 
-Built a computer vision pipeline over 997 DC street images — CLIP embeddings, PCA, and Lasso regression to predict how scenic a location is. RMSE 0.73 / R² 0.91.
+Built a computer vision pipeline over 997 DC street images - CLIP embeddings, PCA, and Lasso regression to predict how scenic a location is. RMSE 0.73 / R² 0.91.
 
 **[Colon Cancer Dashboard](https://github.com/JMunetsi/Colon_Cancer_Dashboard)**
 
